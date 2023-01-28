@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AryanIzhar-Dev7
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++-
--  💞️ I’m looking to collaborate on C++
+- 👀 I’m interested in C++ and Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on C++ and Java 
 - 📫 How to reach me aryanizhar2002@gmail.com
 
 <!---
