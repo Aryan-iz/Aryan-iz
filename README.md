@@ -77,8 +77,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 </p>
 <p align="center">
-<a href="https://discordapp.com/users/abdullah.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/></a>
-<a href="https://www.linkedin.com/in/muhammad-abdullah-khalid101/" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/></a>
+<a href="" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/></a>
 </p>
   <br><br>
