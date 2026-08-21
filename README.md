@@ -28,10 +28,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2 align="center">🏆 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-iz&theme=dark&show_icons=true&count_private=true" alt="Abdullah's GitHub Stats" width="42.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan-iz&theme=dark&count_private=true" width="45%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-iz&layout=compact&theme=dark&langs_count=10" width="50%"/>
